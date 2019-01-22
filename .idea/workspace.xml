@@ -2,22 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dae2843e-1596-4091-a0b5-9a57e7ffe41d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index_wessi.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_wessi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/videos/group_1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/videos/group_1b.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/videos/group_2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/videos/group_2b.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/videos/group_3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/videos/group_3b.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/videos/group_4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/videos/group_4b.gif" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-968046891">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="98" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="98" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="20190123_WESSI" />
@@ -27,30 +50,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index_wessi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="654" column="101" lean-forward="true" selection-start-line="654" selection-start-column="101" selection-end-line="654" selection-end-column="101" />
+            <state relative-caret-position="305">
+              <caret line="65" column="64" lean-forward="true" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#strong#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#11;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#11;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#section#14;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#16;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#section#17;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#24777#24783#0" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#section#17;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#b#0;n#h2#0;n#div#0;n#section#17;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#21;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#28167#28173#0" expanded="true" />
-                <element signature="e#28241#28247#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demos/portfolios.html">
+        <entry file="file://$PROJECT_DIR$/static/css/webslides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14925">
-              <caret line="995" column="18" selection-start-line="954" selection-start-column="8" selection-end-line="995" selection-end-column="18" />
+            <state relative-caret-position="218">
+              <caret line="474" column="10" selection-start-line="474" selection-start-column="3" selection-end-line="474" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -61,7 +77,6 @@
     <findStrings>
       <find>put content</find>
       <find>passio</find>
-      <find>features</find>
       <find>fa-magic</find>
       <find>majority</find>
       <find>grid.vertical-align</find>
@@ -83,6 +98,11 @@
       <find>Basic Grid (auto-fill and equal height).</find>
       <find>fixed</find>
       <find>.flexblock.gallery</find>
+      <find>Features</find>
+      <find>features</find>
+      <find>size</find>
+      <find>size-50</find>
+      <find>size-70</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,6 +119,12 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="26" />
     <option name="y" value="23" />
@@ -110,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,13 +163,18 @@
               <item name="20190000_Switch" type="b2602c69:ProjectViewProjectNode" />
               <item name="20190000_Switch" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20190000_Switch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20190000_Switch" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,10 +223,10 @@
     <option name="totallyTimeSpent" value="34976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="23" width="1373" height="848" extended-state="0" />
+    <frame x="26" y="23" width="1373" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942857" visible="true" weight="0.22539444" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942857" visible="true" weight="0.2283997" />
       <window_info id="Structure" order="1" sideWeight="0.5005714" side_tool="true" weight="0.20736289" />
       <window_info id="Favorites" order="2" sideWeight="0.5005714" side_tool="true" weight="0.20736289" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -219,6 +251,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demos/index.html">
@@ -258,37 +293,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/webslides.css">
+    <entry file="file://$PROJECT_DIR$/demos/landings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index_wessi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="654" column="101" lean-forward="true" selection-start-line="654" selection-start-column="101" selection-end-line="654" selection-end-column="101" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#strong#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#11;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#11;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#section#14;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#16;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#section#17;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#24777#24783#0" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#section#17;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#b#0;n#h2#0;n#div#0;n#section#17;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#21;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#28167#28173#0" expanded="true" />
-            <element signature="e#28241#28247#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="462">
+          <caret line="820" column="18" lean-forward="true" selection-start-line="754" selection-start-column="8" selection-end-line="820" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demos/portfolios.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14925">
+        <state relative-caret-position="654">
           <caret line="995" column="18" selection-start-line="954" selection-start-column="8" selection-end-line="995" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/webslides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="474" column="10" selection-start-line="474" selection-start-column="3" selection-end-line="474" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_wessi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="65" column="64" lean-forward="true" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#strong#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#11;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#11;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#section#14;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#21;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
