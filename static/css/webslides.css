@@ -3808,3 +3808,7 @@ Identity Switch CSS
     padding: 0px 0px;
     /*display: inline-block;*/
 }
+.cite{
+  color: yellow;
+  font-size: x-small;
+}
