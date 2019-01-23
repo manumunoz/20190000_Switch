@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dae2843e-1596-4091-a0b5-9a57e7ffe41d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/images/mask4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/mask_circle.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_wessi.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_wessi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/allocation_groups.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/allocation_groups.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/group_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/group_1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/group_1b.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/group_1b.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/group_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/group_2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/group_2b.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/group_2b.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/group_3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/group_3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/group_3b.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/group_3b.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/group_4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/group_4.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/group_4b.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/group_4b.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/intro_animations.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/intro_animations.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/name_attempts.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/results/name_attempts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/mask4.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/mask4.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index_wessi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="180" column="92" selection-start-line="180" selection-start-column="92" selection-end-line="180" selection-end-column="92" />
+            <state relative-caret-position="288">
+              <caret line="164" column="61" selection-start-line="164" selection-start-column="61" selection-end-line="164" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -194,12 +183,6 @@
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="20190000_Switch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="20190000_Switch" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="results" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -254,7 +237,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="26" y="23" width="1373" height="823" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942857" visible="true" weight="0.23441021" />
       <window_info id="Structure" order="1" sideWeight="0.5005714" side_tool="true" weight="0.20736289" />
@@ -339,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index_wessi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="180" column="92" selection-start-line="180" selection-start-column="92" selection-end-line="180" selection-end-column="92" />
+        <state relative-caret-position="288">
+          <caret line="164" column="61" selection-start-line="164" selection-start-column="61" selection-end-line="164" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
