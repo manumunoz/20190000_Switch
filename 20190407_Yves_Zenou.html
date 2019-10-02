@@ -242,13 +242,11 @@
               <h3>The Model: 3 stages</h3>
                 <br>
                 <ul>
-                  <li>&bull; There is a set of players: $N=\{1,2,..., n\}$</li>
-                  <li>&bull; Each player $i$ is assigned a group identity: $&theta;_i=\{&#9679, &#9650\}$, and</li>
+                  <li>&bull; There is a set of players: $N=\{1,2, 3, 4, 5, 6, 7\}$</li>
+                  <li>&bull; Four players are assigned a group identity: $&theta;_i=&#9679$ (majority) </li>
+                  <li>&bull; Three a group $&theta;_i=&#9650$ (minority)</li>
                   <li>&bull; An external attribute (<i>appearance</i>): $&#966;_i=\{&#9711, &#9651\}$</li>
-                  <li>&bull; Every $ i &isin; N $ knows the group assigned to all other players: $&theta;=\{&theta;_1,&theta;_2,..., &theta;_n\}$</li>
-                  <li>&bull; The set of players by group: $N_{&#9679}=\{\i &isin; N: &theta;_i = &#9679\}$ and
-                      $N_{&#9650}=\{\i &isin; N: &theta;_i = &#9650\}$, with cardinality $|N_{&#9679}|,|N_{&#9650}|$</li>
-                  <li>&bull; If $|N_{&#9679}|&ne;|N_{&#9650}|$, the largest set is the <i>majority</i></li>
+                  <li>&bull; This is common knowledge</li>
                 </ul>
               </div>
               <div class="column">
@@ -256,9 +254,7 @@
               <br>
                 <ul>
                   <li>&bull; Endogenous choice of group: $\ov{&theta;}_i=\{&#9679, &#9650\}$</li>
-                  <li>&bull; $i$ can stay in the assigned group, $(\ov{&theta;}_i=&theta;_i)$, or change it, $(\ov{&theta;}_i &ne; &theta;_i)$</li>
-                  <li>&bull; The resulting vector of chosen groups is: $\ov{&theta;}=\{\ov{&theta;}_1,\ov{&theta;}_2,..., \ov{&theta;}_n\}$</li>
-                  <li>&bull; Finite set of all vectors: $\ov{&Theta;}$ </li>
+                  <li>&bull; The chosen groups are known to all (baseline)</li>
                 </ul>
               </div>
             </div>
@@ -274,13 +270,12 @@
               <h3>2. Network formation <i class="fas fa-draw-polygon"></i></h3>
                 <br>
                 <ul>
-                  <li>&bull; Each player observes $\ov{&theta;}$</li>
-                  <li>&bull; Proposes connections to others: $g_i=(g_{i1},...,g_{ii-1},g_{ii+1},...,g_{in})$ where $g_{ij} &isin; \{0,1\}$</li>
-                  <li>&bull; $N_i\{g\}=\{\j &isin; N: g_{ij} = 1\}$ is $i$'s targeted neighbors (outdegree)</li>
-                  <li>&bull; Results in the directed network $g=(g_1,g_2,...,g_n)$</li>
+                  <li>&bull; Each player observes the chosen group of all others $\ov{&theta;}$</li>
+                  <li>&bull; Proposes connections to others</li>
+                  <li>&bull; $N_i\{g\}$ is $i$'s targeted neighbors (outdegree)</li>
+                  <li>&bull; Results in the directed network $g$</li>
                   <li>&bull; If $g_{ij}=g_{ji}=1$ an undirected link $\ov{g}_{ij}$ is formed</li>
-                  <li>&bull; The resulting network $\ov{g}$ represents all bilateral connections: $N_i\{\ov{g}\}=\{\j &isin; N: \ov{g}_{ij} = 1\}$</li>
-                  <li>&bull; Finite set of all undirected networks: $\ov{G}$ </li>
+                  <li>&bull; The resulting network $\ov{g}$ represents all bilateral connections</li>
                 </ul>
               </div>
               <div class="column">
@@ -288,11 +283,9 @@
               <br>
                 <ul>
                   <li>&bull; All players observe the resulting network (all proposals)</li>
-                  <li>&bull; $i$ chooses an action from a binary set $A=\{$<span class="pr">p</span>,<span class="bl">b</span>$\}$</li>
+                  <li>&bull; Each chooses an action from a binary set $A=\{$<span class="pr">p</span>,<span class="bl">b</span>$\}$</li>
                   <li>&bull; Group based preference: $&#9679 (&#9650)$ prefers <span class="pr">p</span> over <span class="bl">b</span>
                       (<span class="bl">b</span> over <span class="pr">p</span>)</li>
-                  <li>&bull; $x_i(\ov{g})=\ov{&theta;}_i$ when $i$ chooses her preferred action, and $x_i(\ov{g}) &ne; \ov{&theta;}_i$ otherwise</li>
-                  <li>&bull; $i$'s strategy is defined through a total function $x_i:\ov{&Theta;},\ov{G} &rarr; A$</li>
                 </ul>
               </div>
             </div>
@@ -314,17 +307,17 @@
               <br>
               <ul>
                 <li>&bull; where $&sum;_{j &isin; N_i(\ov{g})} I_{\{x_j=x_i\}}$ counts all neighbors choosing the same as $i$</li>
-                <li>&bull; $&lambda;^{\ov{&theta;}_i}_{x_i}=&alpha;$ if $x_i(\ov{g})=\ov{&theta;}_i$ (chooses her preferred action) and
-                  $&lambda;^{\ov{&theta;}_i}_{x_i}=&beta;$ otherwise: $&alpha;>&beta;$</li>
+                <li>&bull; $&lambda;^{\ov{&theta;}_i}_{x_i}=6;$ if $x_i(\ov{g})=\ov{&theta;}_i$ (chooses her preferred action) and
+                  $&lambda;^{\ov{&theta;}_i}_{x_i}=4;$ otherwise</li>
                 <li>&bull; switching cost: $c(\ov{&theta;}_i) &ge; 0$ if $i$ changed groups $(\ov{&theta;}_i &ne; &theta;_i)$, and $0$ otherwise</li>
-                <li>&bull; Cost of proposing a link: $k>0$</li>
+                <li>&bull; Cost of proposing a link: $k=2$</li>
               </ul>
               </div>
             </div>
           </div>
         </section>
 <!--   EQUILIBRIA (NO SWITCH)   -->
-        <section>
+<!--         <section>
           <div class="wrap">
             <h2>Equilibrium charaterization (B.I.)</h2>
                 <p><b>1. Actions:</b> Fix the network. Players choose their preferred action if the proportion selecting the same is sufficiently large (threshold).
@@ -369,9 +362,9 @@
               </li>
             </ul>
           </div>
-        </section>
+        </section> -->
 <!--   EQUILIBRIA (SWITCH)   -->
-        <section>
+<!--         <section>
           <div class="wrap">
             <h2>Equilibrium charaterization (B.I.)</h2>
                 <p style="color:gray"><b>1. Actions:</b> Fix the network. Players choose their preferred action if the proportion selecting the same is sufficiently large (threshold).
@@ -419,9 +412,9 @@
               </li>
             </ul>
           </div>
-        </section>
-<!--   FIXED VS. FLUID   -->
-        <section>
+ --><!--         </section>  -->
+        <!--   FIXED VS. FLUID   -->
+<!--         <section>
           <div class="wrap aligncenter">
             <h2><strong>Fixed vs. Fluid Group Identities</strong></h2>
                 <h4>Effects on equilibria and efficiency</h4>
@@ -439,7 +432,7 @@
               </ul>
             </div>
           </div>
-        </section>
+        </section> -->
 
 <!--  ******************************* EXPERIMENT *******************************  -->
 <!--   EXPERIMENTAL DESIGN   -->
@@ -596,13 +589,13 @@
               <thead>
                <tr>
                 <th> </th>
-                <th>Visible Change</th>
-                <th>Invisible Change</th>
+                <th>Clear Change</th>
+                <th>Blurry Change</th>
                </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th>Free Exit</th>
+                  <th>Open boundaries</th>
                   <td style="color:yellow">CLEAR</td>
                   <td>BLURRY</td>
                 </tr>
@@ -662,7 +655,7 @@
         <section class="bg-blue">
           <span class="background dark" style="background-image:url('static/images/mask3.jpg')"></span>
           <div class="wrap">
-            <h2><strong>Results:</strong> Pilots</h2>
+            <h2><strong>Results:</strong></h2>
             <p>One session :: Four groups :: Seven subjects per group</p>
           </div>
         </section>

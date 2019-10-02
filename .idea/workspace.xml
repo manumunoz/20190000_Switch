@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dae2843e-1596-4091-a0b5-9a57e7ffe41d" name="Default Changelist" comment="" />
+    <list default="true" id="dae2843e-1596-4091-a0b5-9a57e7ffe41d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/20190312_index_carlos.html" beforeDir="false" afterPath="$PROJECT_DIR$/20190312_index_carlos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/bt-appstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/bt-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/davinci.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/iphone-hand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/iphone.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-968046891">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="20190123_WESSI" />
@@ -72,9 +92,15 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="8" />
-    <option name="y" value="23" />
+    <option name="x" value="-1663" />
+    <option name="y" value="163" />
     <option name="width" value="1373" />
     <option name="height" value="588" />
   </component>
@@ -172,10 +198,9 @@
     <option name="totallyTimeSpent" value="35014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="23" width="1373" height="588" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1663" y="163" width="1373" height="588" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942857" visible="true" weight="0.24417731" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942857" visible="true" weight="0.24793388" />
       <window_info id="Structure" order="1" sideWeight="0.5005714" side_tool="true" weight="0.20736289" />
       <window_info id="Favorites" order="2" sideWeight="0.5005714" side_tool="true" weight="0.20736289" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -200,6 +225,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demos/index.html">
@@ -257,16 +285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="264" column="2" selection-start-line="264" selection-start-column="2" selection-end-line="264" selection-end-column="2" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#b#1;n#i#0;n#div#1;n#div#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h2#0;n#div#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#li#1;n#ul#0;n#div#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#b#1;n#div#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#h2#0;n#div#0;n#section#20;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
